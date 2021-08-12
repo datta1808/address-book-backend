@@ -16,6 +16,8 @@
 
 const userService = require('../services/user');
 
+const { userDataValidation } = require('../middleware/validation');
+
 class UserController {
     /**
      * @description function written to register user
@@ -24,6 +26,13 @@ class UserController {
      */
     async registration(req, res) {
         try {
+            let dataValidation = userDataValidation.validate(req.body);
+            if (dataValidation.error) {
+                // 403 - Invalid format
+                return res.status(403).send({
+                    message: dataValidation.error.details[0].message
+                });
+            }
             const userData = {
                 firstName: req.body.firstName,
                 lastName: req.body.lastName,
