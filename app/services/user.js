@@ -10,7 +10,7 @@
  * @overview    : calls functions from the model to respond to the controller
  * @module      : This is necessary to perform CRUD operations
  * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
- * @version     : _ _ _
+ * @version     : 1.0.0
  * @since       : 12-08-2021
  *********************************************************************/
 

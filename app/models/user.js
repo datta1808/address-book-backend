@@ -15,6 +15,8 @@
  *********************************************************************/
 
 const mongoose = require("mongoose");
+const bcrypt = require("bcrypt");
+const saltRounds = 10;
 
 const userSchema = mongoose.Schema(
   {
@@ -35,11 +37,8 @@ const userSchema = mongoose.Schema(
       type: String,
       required: true,
     },
-    token: {
-      type: String,
-    },
   },
-  {
+{
     timestamps: true,
     versionKey: false,
   }
@@ -48,29 +47,27 @@ const userSchema = mongoose.Schema(
 // creating a collection & assigning it to a constant
 const User = mongoose.model("User", userSchema);
 
-
 //created a class to write functions
 class UserModel {
-
   /**
-   * @description function written to create user data into database 
+   * @description function written to create user data into database
    * @param {*} A valid userData is expected
-   * @param {*} callBack 
+   * @param {*} callBack
    */
   async createInfo(userData) {
-      try {
-          const user = new User({
-              firstName: userData.firstName,
-              lastName: userData.lastName,
-              email: userData.email,
-              password: userData.password
-          });
-          
-          const userSaved = await user.save({});
-          return userSaved;
-      } catch (error) {
-          return error;
-      }
+    try {
+      const user = new User({
+        firstName: userData.firstName,
+        lastName: userData.lastName,
+        email: userData.email,
+        password: userData.password,
+      });
+
+      const userSaved = await user.save({});
+      return userSaved;
+    } catch (error) {
+      return error;
+    }
   }
 }
 
