@@ -38,11 +38,27 @@ const userSchema = mongoose.Schema(
       required: true,
     },
   },
-{
+  {
     timestamps: true,
     versionKey: false,
   }
 );
+
+userSchema.pre("save", function (next) {
+  var user = this;
+
+  // only hash the password if it has been modified (or is new)
+  if (!user.isModified("password")) return next();
+
+  // hash the password using our new salt
+  bcrypt.hash(user.password, saltRounds, function (error, hashPassword) {
+    if (error) return next(error);
+
+    // override the cleartext password with the hashed one
+    user.password = hashPassword;
+    next();
+  });
+});
 
 // creating a collection & assigning it to a constant
 const User = mongoose.model("User", userSchema);
