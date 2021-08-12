@@ -9,7 +9,9 @@
     "express": "^4.17.1",
     "joi": "^17.4.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.13.7"
+    "mongoose": "^5.13.7",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
   },
   "devDependencies": {
     "chai": "^4.3.4",

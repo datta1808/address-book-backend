@@ -5,6 +5,12 @@ const express = require("express");
 // Configuring the database
 const dbConfig = require("./config/database.config.js");
 
+//Importing swagger-UI
+const swaggerUI = require('swagger-ui-express');
+
+//Importing swagger json file for using swagger docs
+const swaggerDocs = require('./swagger/swagger.json');
+
 // create express app
 const app = express();
 
@@ -13,6 +19,9 @@ app.use(express.urlencoded({ extended: true }));
 
 // parse requests of content-type - application/json
 app.use(express.json());
+
+//using swagger UI
+app.use('/swagger', swaggerUI.serve, swaggerUI.setup(swaggerDocs));
 
 //Connecting to the database
 dbConfig.databaseConnection();
