@@ -3,6 +3,7 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 
 class Helper {
+    
   // function for grnerating the token
   generateToken(empData) {
     // jwt.sign(payload, secretOrPrivateKey, [options, callback])

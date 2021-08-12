@@ -16,7 +16,7 @@
 
 const userModel = require("../models/user.js");
 
-const helper = require('../middleware/helper');
+const helper = require("../middleware/helper");
 
 class UserService {
   /**
@@ -38,11 +38,12 @@ class UserService {
    * @param {*} A valid userData is expected
    * @param {*} callBack
    */
-   userLogin = (userCredentials, callback) => {
+  userLogin = (userCredentials, callback) => {
     userModel.loginUser(userCredentials, (err, data) => {
       if (err) {
         return callback(err, null);
       }
+      
       //check if the password matches
       if (helper.comparePassword(userCredentials.password, data.password)) {
         //create a token
