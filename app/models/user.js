@@ -85,7 +85,24 @@ class UserModel {
       return error;
     }
   }
+
+  /**
+   * @description checks if user is present and generates JWT token
+   * @param {*} A valid userData is expected
+   * @param {*} callBack
+   */
+   loginUser = (clientCredentials, callback) => {
+    User.findOne({ email: clientCredentials.email }, (err, data) => {
+      if (err) {
+        return callback(err, null);
+      }
+      return !data
+        ? callback("User not found with email", null)
+        : callback(null, data);
+    });
+  };
 }
+
 
 //exporting the class to utilize or call function created in this class
 module.exports = new UserModel();

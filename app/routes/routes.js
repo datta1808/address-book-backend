@@ -20,6 +20,9 @@ module.exports = (app) => {
 
     // register new user
     app.post("/register", userController.registration);
+
+    // user login
+    app.post("/login", userController.login);
   
 };  
 

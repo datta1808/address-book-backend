@@ -14,22 +14,46 @@
  * @since       : 12-08-2021
  *********************************************************************/
 
- const userModel = require("../models/user.js");
+const userModel = require("../models/user.js");
+
+const helper = require('../middleware/helper');
 
 class UserService {
-    /**
-     * @description function created to create user into database
-     * @param {*} A valid userData is expected 
-     * @param {*} callBack 
-     */
-    async createUserInfo(userData) {
-        try {
-            const createdUser = await userModel.createInfo(userData);
-            return createdUser;
-        } catch (error) {
-            return error;
-        }
+  /**
+   * @description function created to create user into database
+   * @param {*} A valid userData is expected
+   * @param {*} callBack
+   */
+  async createUserInfo(userData) {
+    try {
+      const createdUser = await userModel.createInfo(userData);
+      return createdUser;
+    } catch (error) {
+      return error;
     }
+  }
+
+  /**
+   * @description function created to login user
+   * @param {*} A valid userData is expected
+   * @param {*} callBack
+   */
+   userLogin = (userCredentials, callback) => {
+    userModel.loginUser(userCredentials, (err, data) => {
+      if (err) {
+        return callback(err, null);
+      }
+      //check if the password matches
+      if (helper.comparePassword(userCredentials.password, data.password)) {
+        //create a token
+        let token = helper.generateToken(userCredentials);
+        return !token
+          ? callback("Wrong password!", null)
+          : callback(null, token);
+      }
+      return callback("Invalid Credentials", null);
+    });
+  };
 }
 
 //exporting the class to utilize or call function created in this class
