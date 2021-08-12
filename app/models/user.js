@@ -15,6 +15,9 @@
  *********************************************************************/
 
 const mongoose = require("mongoose");
+// Require logger.js
+const logger = require("../../config/logger");
+
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
 
@@ -44,6 +47,7 @@ const userSchema = mongoose.Schema(
   }
 );
 
+// 'pre' acts as a middleware between userSchema & save() method
 userSchema.pre("save", function (next) {
   var user = this;
 
@@ -80,8 +84,10 @@ class UserModel {
       });
 
       const userSaved = await user.save({});
+      logger.info("User saved successfully");
       return userSaved;
     } catch (error) {
+      logger.error("Error while saving the new user");
       return error;
     }
   }
@@ -94,6 +100,7 @@ class UserModel {
    loginUser = (clientCredentials, callback) => {
     User.findOne({ email: clientCredentials.email }, (err, data) => {
       if (err) {
+        logger.error("Error while login");
         return callback(err, null);
       }
       return !data

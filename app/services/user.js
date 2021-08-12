@@ -18,6 +18,9 @@ const userModel = require("../models/user.js");
 
 const helper = require("../middleware/helper");
 
+// Require logger.js
+const logger = require("../../config/logger");
+
 class UserService {
   /**
    * @description function created to create user into database
@@ -27,8 +30,10 @@ class UserService {
   async createUserInfo(userData) {
     try {
       const createdUser = await userModel.createInfo(userData);
+      logger.info("User registered successfully");
       return createdUser;
     } catch (error) {
+        logger.error("Error while registering the new user");
       return error;
     }
   }
@@ -43,15 +48,17 @@ class UserService {
       if (err) {
         return callback(err, null);
       }
-      
+
       //check if the password matches
       if (helper.comparePassword(userCredentials.password, data.password)) {
         //create a token
         let token = helper.generateToken(userCredentials);
+        logger.info("Token is generated");
         return !token
           ? callback("Wrong password!", null)
           : callback(null, token);
       }
+      logger.info("Invalid Credintials");
       return callback("Invalid Credentials", null);
     });
   };

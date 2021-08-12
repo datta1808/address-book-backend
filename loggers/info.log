@@ -1,0 +1,18 @@
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-12T18:49:21.910Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-12T18:49:46.730Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-12T18:50:01.174Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-12T18:50:01.174Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-12T18:50:55.932Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-12T18:50:55.933Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-12T18:50:55.956Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-12T18:50:55.970Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-12T18:50:55.982Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-12T18:50:55.995Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-12T18:50:56.127Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-12T18:50:56.127Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-12T18:50:56.136Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-12T18:50:56.146Z"}
+{"message":"User saved successfully","level":"info","timestamp":"2021-08-12T18:51:55.303Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-12T18:51:55.303Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-12T18:52:21.279Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-12T18:52:21.279Z"}
