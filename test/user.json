@@ -1,0 +1,36 @@
+{
+    "userCreatePos": {
+        "firstName": "Datta",
+        "lastName": "Bagale",
+        "email": "datta123@gmail.com",
+        "password": "Datta@123"
+    },
+
+    "userCreateNegFirstName": {
+        "firstName": "",
+        "lastName": "Bagale",
+        "email": "datta1234@gmail.com",
+        "password": "Datta@1234"
+    },
+
+    "userCreateNegLastName": {
+        "firstName": "Datta",
+        "lastName": "",
+        "email": "datta1234@gmail.com",
+        "password": "Datta@1234"
+    },
+
+    "userCreateNegEmail": {
+        "firstName": "Datta",
+        "lastName": "Bagale",
+        "email": "datta123@@gmail.com",
+        "password": "Datta@123"
+    },
+
+    "userCreateNegPassword": {
+        "firstName": "Datta",
+        "lastName": "Bagale",
+        "email": "datta123@gmail.com",
+        "password": ""
+    }
+}

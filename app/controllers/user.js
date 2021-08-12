@@ -29,7 +29,7 @@ class UserController {
             let dataValidation = userDataValidation.validate(req.body);
             if (dataValidation.error) {
                 // 403 - Invalid format
-                return res.status(403).send({
+                return res.status(400).send({
                     message: dataValidation.error.details[0].message
                 });
             }
@@ -40,7 +40,7 @@ class UserController {
                 password: req.body.password
             }
             const userCreated = await userService.createUserInfo(userData);
-            res.send({success: true, message: "User registered!", data: userCreated});
+            res.status(200).send({success: true, message: "User registered!", data: userCreated});
             
         } catch (error) {
             console.log(error);
