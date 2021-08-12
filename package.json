@@ -1,0 +1,26 @@
+{
+  "name": "address-book-backend",
+  "version": "1.0.0",
+  "description": "Address Book App",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datta1808/address-book-backend.git"
+  },
+  "author": "Dattatreya Bagale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datta1808/address-book-backend/issues"
+  },
+  "homepage": "https://github.com/datta1808/address-book-backend#readme"
+}
