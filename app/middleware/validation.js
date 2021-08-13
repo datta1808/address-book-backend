@@ -17,36 +17,36 @@
 const joi = require("joi");
 
 const userDataValidation = joi.object({
-  firstName: joi
-    .string()
-    .pattern(new RegExp("^[A-Z]{1}[a-z]{1,30}"))
-    .required(),
-  lastName: joi.string().pattern(new RegExp("^[A-Z]{1}[a-z]{1,30}")).required(),
-  email: joi.string().email().required(),
-  password: joi
-    .string()
-    .pattern(
-      new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})")
-    )
-    .required(),
+	firstName: joi
+		.string()
+		.pattern(new RegExp("^[A-Z]{1}[a-z]{1,30}"))
+		.required(),
+	lastName: joi.string().pattern(new RegExp("^[A-Z]{1}[a-z]{1,30}")).required(),
+	email: joi.string().email().required(),
+	password: joi
+		.string()
+		.pattern(
+			new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})")
+		)
+		.required(),
 });
 
 const userLoginData = joi.object({
-  email: joi
-    .string()
-    .email()
-    .required()
-    .pattern(
-      new RegExp(
-        "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:.[a-zA-Z0-9-]+)*$"
-      )
-    ),
-  password: joi
-    .string()
-    .pattern(
-      new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})")
-    )
-    .required(),
+	email: joi
+		.string()
+		.email()
+		.required()
+		.pattern(
+			new RegExp(
+				"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:.[a-zA-Z0-9-]+)*$"
+			)
+		),
+	password: joi
+		.string()
+		.pattern(
+			new RegExp("^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[!@#$%^&*])(?=.{8,})")
+		)
+		.required(),
 });
 
 module.exports = { userDataValidation, userLoginData };

@@ -14,15 +14,15 @@
  * @since       : 12-08-2021
  *********************************************************************/
 
-const userController = require('../controllers/user');
+const userController = require("../controllers/user");
 
 module.exports = (app) => {
 
-    // register new user
-    app.post("/register", userController.registration);
+	// register new user
+	app.post("/register", userController.registration);
 
-    // user login
-    app.post("/login", userController.login);
+	// user login
+	app.post("/login", userController.login);
   
 };  
 

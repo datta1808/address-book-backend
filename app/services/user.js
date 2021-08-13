@@ -22,46 +22,46 @@ const helper = require("../middleware/helper");
 const logger = require("../../config/logger");
 
 class UserService {
-  /**
+	/**
    * @description function created to create user into database
    * @param {*} A valid userData is expected
    * @param {*} callBack
    */
-  async createUserInfo(userData) {
-    try {
-      const createdUser = await userModel.createInfo(userData);
-      logger.info("User registered successfully");
-      return createdUser;
-    } catch (error) {
-        logger.error("Error while registering the new user");
-      return error;
-    }
-  }
+	async createUserInfo(userData) {
+		try {
+			const createdUser = await userModel.createInfo(userData);
+			logger.info("User registered successfully");
+			return createdUser;
+		} catch (error) {
+			logger.error("Error while registering the new user");
+			return error;
+		}
+	}
 
-  /**
+	/**
    * @description function created to login user
    * @param {*} A valid userData is expected
    * @param {*} callBack
    */
-  userLogin = (userCredentials, callback) => {
-    userModel.loginUser(userCredentials, (err, data) => {
-      if (err) {
-        return callback(err, null);
-      }
+	userLogin(userCredentials, callback) {
+		userModel.loginUser(userCredentials, (err, data) => {
+			if (err) {
+				return callback(err, null);
+			}
 
-      //check if the password matches
-      if (helper.comparePassword(userCredentials.password, data.password)) {
-        //create a token
-        let token = helper.generateToken(userCredentials);
-        logger.info("Token is generated");
-        return !token
-          ? callback("Wrong password!", null)
-          : callback(null, token);
-      }
-      logger.info("Invalid Credintials");
-      return callback("Invalid Credentials", null);
-    });
-  };
+			//check if the password matches
+			if (helper.comparePassword(userCredentials.password, data.password)) {
+				//create a token
+				let token = helper.generateToken(userCredentials);
+				logger.info("Token is generated");
+				return !token
+					? callback("Wrong password!", null)
+					: callback(null, token);
+			}
+			logger.info("Invalid Credintials");
+			return callback("Invalid Credentials", null);
+		});
+	}
 }
 
 //exporting the class to utilize or call function created in this class
