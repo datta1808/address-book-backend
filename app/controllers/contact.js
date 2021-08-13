@@ -111,8 +111,8 @@ class Controller {
           .send({ message: updateValidation.error.details[0].message });
       }
 
-      //id param for updating exact employee
-      let contactId = req.params.contactId;
+      //id param for updating exact contact
+      const contactId = req.params;
 
       //employee updated details from client
       const updatedDetails = {

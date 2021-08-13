@@ -72,7 +72,181 @@
                     }
                 }
             }
-        }
+        },
+        "/addContact": {
+            "post": {
+              "tags": [],
+              "description": "Add new contact",
+              "parameters": [
+                {
+                  "name": "add contact",
+                  "in": "body",
+                  "required": true,
+                  "schema": {
+                    "$ref": "#/definitions/Contact"
+                  }
+                }
+              ],
+              "responses": {
+                "201": {
+                  "description": "Created"
+                },
+                "400": {
+                  "description": "Bad Request"
+                },
+                "500": {
+                  "description": "Internal Server Error"
+                }
+              },
+              "security": [
+                {
+                  "JWT": []
+                }
+              ]
+            }
+          },
+          "/getContacts": {
+            "get": {
+              "tags": [],
+              "description": "get all contacts",
+              "parameters": [],
+              "responses": {
+                "200": {
+                  "description": "Ok"
+                },
+                "400": {
+                  "description": "Bad Request"
+                },
+                "401": {
+                  "description": "Unauthorized"
+                },
+                "500": {
+                  "description": "Internal Server Error"
+                }
+              },
+              "security": [
+                {
+                  "JWT": []
+                }
+              ]
+            }
+          },
+          "/getContact/{contactId}": {
+            "get": {
+              "tags": [],
+              "description": "get contact by id",
+              "parameters": [
+                {
+                  "name": "contactId",
+                  "in": "path",
+                  "required": true,
+                  "type": "string"
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "Ok"
+                },
+                "400": {
+                  "description": "Bad Request"
+                },
+                "401": {
+                  "description": "Unauthorized"
+                },
+                "404": {
+                  "description": "Not Found"
+                },
+                "500": {
+                  "description": "Internal Server Error"
+                }
+              },
+              "security": [
+                {
+                  "JWT": []
+                }
+              ]
+            }
+          },
+          "/updateContact/{contactId}": {
+            "put": {
+              "tags": [],
+              "description": "Update contact data",
+              "parameters": [
+                {
+                  "name": "contactId",
+                  "in": "path",
+                  "required": true,
+                  "type": "string"
+                },
+                {
+                  "name": "new contactDetails",
+                  "in": "body",
+                  "required": true,
+                  "schema": {
+                    "$ref": "#/definitions/Contact"
+                  }
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "OK"
+                },
+                "400": {
+                  "description": "Bad Request"
+                },
+                "401": {
+                  "description": "Unauthorized"
+                },
+                "404": {
+                  "description": "Not Found"
+                },
+                "500": {
+                  "description": "Internal Server Error"
+                }
+              },
+              "security": [
+                {
+                  "JWT": []
+                }
+              ]
+            }
+          },
+          "/deleteContact/{contactId}": {
+            "delete": {
+              "tags": [],
+              "description": "Delete contact data",
+              "parameters": [
+                {
+                  "name": "contactId",
+                  "in": "path",
+                  "required": true,
+                  "type": "string"
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "OK"
+                },
+                "400": {
+                  "description": "Bad Request"
+                },
+                "401": {
+                  "description": "Unauthorized"
+                },
+                "404": {
+                  "description": "Not Found"
+                },
+                "500": {
+                  "description": "Internal Server Error"
+                }
+              },
+              "security": [
+                {
+                  "JWT": []
+                }
+              ]
+            }
+          }
     },
     "securityDefinitions": {
         "JWT": {
@@ -106,6 +280,35 @@
                     "type": "string"
                 },
                 "password": {
+                    "type": "string"
+                }
+            }
+        },
+        "Contact": {
+            "type": "object",
+            "properties": {
+                "firstName": {
+                    "type": "string"
+                },
+                "lastName": {
+                    "type": "string"
+                },
+                "address": {
+                    "type": "string"
+                },
+                "city": {
+                    "type": "string"
+                },
+                "state": {
+                    "type": "string"
+                },
+                "zip": {
+                    "type": "string"
+                },
+                "phone": {
+                    "type": "string"
+                },
+                "email": {
                     "type": "string"
                 }
             }

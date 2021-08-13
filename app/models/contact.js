@@ -59,7 +59,7 @@ const contactSchema = mongoose.Schema(
   }
 );
 
-const contactData = mongoose.model("Contact", contactSchema);
+const contactDetail = mongoose.model("Contact", contactSchema);
 
 class Contact {
   /**
@@ -69,7 +69,7 @@ class Contact {
    */
   async createContact(newContact) {
     try {
-      const contact = new contactData({
+      const contact = new contactDetail({
         firstName: newContact.firstName,
         lastName: newContact.lastName,
         address: newContact.address,
@@ -94,7 +94,7 @@ class Contact {
    */
   findAll = () => {
     return new Promise((resolve, reject) => {
-      contactData
+		contactDetail
         .find({})
         .then((data) => {
           resolve(data);
@@ -112,7 +112,7 @@ class Contact {
    */
    async getContactById(contactId) {
     try {
-      return await contactData.findById(contactId);
+      return await contactDetail.findById(contactId);
     } catch (err) {
       return error;
     }
@@ -126,7 +126,7 @@ class Contact {
    */
    async updateContactById(contactId, contactData) {
     try {
-      return await contactData.findByIdAndUpdate(
+      return await contactDetail.findByIdAndUpdate(
         contactId.contactId,
         {
           firstName: contactData.firstName,
@@ -151,7 +151,7 @@ class Contact {
    * @returns data else if error returns error
    */
    deleteById = (contactId, callback) => {
-    contactData.findByIdAndRemove(contactId, (error, data) => {
+    contactDetail.findByIdAndRemove(contactId, (error, data) => {
       return error ? callback(error, null) : callback(null, data);
     });
   };
