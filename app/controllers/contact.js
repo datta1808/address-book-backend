@@ -20,7 +20,7 @@ const { contactValidator } = require("../middleware/validation");
 
 class Controller {
   /**
-   * function to call the create function from service.js (creates new employee)
+   * function to call the create function from service.js (creates new contact)
    * @param {*} req
    * @param {*} res
    * @returns HTTP status and object
@@ -35,7 +35,7 @@ class Controller {
           .send({ message: contactValidation.error.details[0].message });
       }
 
-      //Object for the new employee data
+      //Object for the new contact data
       const newContact = {
         firstName: req.body.firstName,
         lastName: req.body.lastName,
@@ -47,7 +47,7 @@ class Controller {
         email: req.body.email
       };
 
-      //calling method to add new employee data
+      //calling method to add new contact data
       const contactCreated = await service.addNewContact(newContact);
       res.send({
         success: true,
@@ -63,7 +63,7 @@ class Controller {
   }
 
   /**
-   * function to call the getAllEmp function that gets all the data, from the service.js
+   * function to call the getAllContacts function that gets all the data, from the service.js
    * @param {*} req
    * @param {*} res
    * @returns HTTP status and object
@@ -80,7 +80,7 @@ class Controller {
   };
 
   /**
-   * function to call the getOne function that gets the required employee data, from the service.js
+   * function to call the getOne function that gets the required contact data, from the service.js
    * @param {*} req
    * @param {*} res
    * @returns HTTP status and employee object
@@ -96,7 +96,7 @@ class Controller {
   }
 
   /**
-   * function to call the update function that updates the required employee data, from the service.js
+   * function to call the update function that updates the required contact data, from the service.js
    * @param {*} req 
    * @param {*} res 
    * @returns HTTP status and object
@@ -114,7 +114,7 @@ class Controller {
       //id param for updating exact contact
       const contactId = req.params;
 
-      //employee updated details from client
+      //contact updated details from client
       const updatedDetails = {
         firstName: req.body.firstName,
         lastName: req.body.lastName,
@@ -126,7 +126,7 @@ class Controller {
         email: req.body.email,
       };
 
-      //calling method to update employee data
+      //calling method to update contact data
       const updatedContact = await service.update(contactId, updatedDetails);
       res.send(updatedContact);
     } catch (err) {
@@ -140,7 +140,7 @@ class Controller {
   }
 
   /**
-   * function to call the deleteEmpData function that deletes the required employee data, from the service.js
+   * function to call the deleteContactData function that deletes the required contact data, from the service.js
    * @param {*} req 
    * @param {*} res 
    * @returns HTTP status and object

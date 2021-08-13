@@ -10,7 +10,7 @@
  * @overview    : Provides schema for database and performs CRUD operations
  * @module      : Contact
  * @author      : Dattatreya Bagale <bagaledatta18@gmail.com>
- * @version     : _ _ _
+ * @version     : 1.0.0
  * @since       : 13-08-2021
  *********************************************************************/
 
@@ -89,8 +89,8 @@ class Contact {
   }
 
   /**
-   * @description function to get all employees from database
-   * @returns retrieved employees or if error returns error
+   * @description function to get all contacts from database
+   * @returns retrieved contacts or if error returns error
    */
   findAll = () => {
     return new Promise((resolve, reject) => {
@@ -106,9 +106,9 @@ class Contact {
   };
 
   /**
-   * @description function written to get employees by Id into database
-   * @param {*} empId
-   * @returns employee of particular Id or if any error return error
+   * @description function written to get contacts by Id into database
+   * @param {*} contactId
+   * @returns contact of particular Id or if any error return error
    */
    async getContactById(contactId) {
     try {
@@ -119,10 +119,10 @@ class Contact {
   }
 
   /**
-   * @description function written to update employees by Id into database
-   * @param {*} empId
-   * @param {*} empData
-   * @returns employee\ of particular Id or if any error return error
+   * @description function written to update contacts by Id into database
+   * @param {*} contactId
+   * @param {*} contactData
+   * @returns contact of particular Id or if any error return error
    */
    async updateContactById(contactId, contactData) {
     try {
@@ -146,8 +146,8 @@ class Contact {
   }
 
   /**
-   * @description function to delete employee by id
-   * @param {*} empId
+   * @description function to delete contact by id
+   * @param {*} contactId
    * @returns data else if error returns error
    */
    deleteById = (contactId, callback) => {

@@ -24,7 +24,7 @@ class Service {
    */
   async addNewContact(newContact) {
     try {
-      // method to create new employee object with given data
+      // method to create new contact object with given data
       const contactSaved = await contactModel.createContact(newContact);
       return contactSaved;
     } catch (err) {
@@ -36,7 +36,7 @@ class Service {
    * @description This function will fetch data from the database
    */
   getAllContacts() {
-    //method to get all the employees
+    //method to get all the contacts
     return contactModel
       .findAll()
       .then((data) => {
@@ -48,7 +48,7 @@ class Service {
   }
 
   /**
-   * @description finding employee by id
+   * @description finding contact by id
    * @param {*} contactId
    */
   async getOne(contactId) {
@@ -58,7 +58,7 @@ class Service {
           .status(404)
           .send({ message: `Contact with given id not found` });
       }
-      // method to get employee data with id
+      // method to get contact data with id
       return await contactModel.getContactById(contactId.contactId);
     } catch (error) {
       return error;
@@ -66,12 +66,12 @@ class Service {
   }
 
   /**
-   * @description updating employee by id
+   * @description updating contact by id
    * @param {*} contactId
    */
   async update(contactId, contactData) {
     try {
-      //calling method to update employee
+      //calling method to update contact
       return await contactModel.updateContactById(contactId, contactData);
     } catch (error) {
       return error;
@@ -79,8 +79,8 @@ class Service {
   }
 
   /**
-     * @description delete employee by id
-     * @param {*} empId 
+     * @description delete contact by id
+     * @param {*} contactId 
      * @param {*} callback 
      */
    deleteContactData = (contactId, callback) => {

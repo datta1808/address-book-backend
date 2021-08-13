@@ -40,7 +40,7 @@ module.exports = (app) => {
 	// Updating the contact
 	app.put('/updateContact/:contactId', helper.verifyToken, contactController.updateContact );
 
-	// deleting the employee
+	// deleting the contact
 	app.delete( '/deleteContact/:contactId', helper.verifyToken, contactController.deleteContact);
 
 };  
