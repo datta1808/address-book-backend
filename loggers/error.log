@@ -42,3 +42,4 @@
 {"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-13T11:45:47.176Z"}
 {"message":"Invalid Details for login","level":"error","timestamp":"2021-08-13T11:45:47.391Z"}
 {"message":"Invalid Details for login","level":"error","timestamp":"2021-08-13T11:45:47.400Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-13T13:26:36.275Z"}

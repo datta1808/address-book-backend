@@ -16,6 +16,10 @@
 
 const userController = require("../controllers/user");
 
+const contactController = require("../controllers/contact");
+
+const helper = require("../middleware/helper");
+
 module.exports = (app) => {
 
 	// register new user
@@ -23,6 +27,21 @@ module.exports = (app) => {
 
 	// user login
 	app.post("/login", userController.login);
+
+	// To create a new contact
+	app.post("/addContact", helper.verifyToken, contactController.addContact);
+
+	// Getting all the data from the server
+	app.get('/getContacts', helper.verifyToken, contactController.getAllContacts);
   
+	// Getting contact by id
+	app.get('/getContact/:contactId', helper.verifyToken, contactController.getOneContact);
+
+	// Updating the contact
+	app.put('/updateContact/:contactId', helper.verifyToken, contactController.updateContact );
+
+	// deleting the employee
+	app.delete( '/deleteContact/:contactId', helper.verifyToken, contactController.deleteContact);
+
 };  
 

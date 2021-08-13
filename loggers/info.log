@@ -74,3 +74,19 @@
 {"message":"User logged in!","level":"info","timestamp":"2021-08-13T11:45:47.384Z"}
 {"message":"Invalid Details for login","level":"error","timestamp":"2021-08-13T11:45:47.391Z"}
 {"message":"Invalid Details for login","level":"error","timestamp":"2021-08-13T11:45:47.400Z"}
+{"message":"Invalid Credintials","level":"info","timestamp":"2021-08-13T13:26:36.274Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-13T13:26:36.275Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T13:26:41.163Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T13:26:41.164Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T15:58:20.019Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T15:58:20.023Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T17:06:14.357Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T17:06:14.361Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T17:12:47.748Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T17:12:47.750Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T17:53:06.994Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T17:53:06.997Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T18:07:59.358Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T18:07:59.362Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-13T18:28:56.145Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-13T18:28:56.146Z"}
