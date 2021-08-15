@@ -40,5 +40,75 @@
     "userLoginWrongPasswordFail": {
         "email": "datta123@gmail.com",
         "password": "datta123"
-    }
+    },
+    "addContactPass": {
+        "firstName": "Datta",
+        "lastName": "Bagale",
+        "address": "Saiful",
+        "city": "Solapur",
+        "state": "Maharashtra",
+        "zip": "413004",
+        "phone": "9999988888",
+        "email": "datta123@gmail.com"
+    },
+    "addContactInvalidNameFormat1": {
+        "firstName": "datta",
+        "lastName": "Bagale",
+        "address": "Saiful",
+        "city": "Solapur",
+        "state": "Maharashtra",
+        "zip": "413004",
+        "phone": "9999988888",
+        "email": "datta123@gmail.com"
+      },
+      "addContactInvalidNameFormat2": {
+        "firstName": "D",
+        "lastName": "Bagale",
+        "address": "Saiful",
+        "city": "Solapur",
+        "state": "Maharashtra",
+        "zip": "413004",
+        "phone": "9999988888",
+        "email": "datta123@gmail.com"
+      },
+      "addContactInvalidNameFormat4": {
+        "firstName": 123456,
+        "lastName": "Bagale",
+        "address": "Saiful",
+        "city": "Solapur",
+        "state": "Maharashtra",
+        "zip": "413004",
+        "phone": "9999988888",
+        "email": "datta123@gmail.com"
+      },
+      "addContactInvalidEmailFormat": {
+        "firstName": "Datta",
+        "lastName": "Bagale",
+        "address": "Saiful",
+        "city": "Solapur",
+        "state": "Maharashtra",
+        "zip": "413004",
+        "phone": "9999988888",
+        "email": "datta123@@gmail.com"
+      },
+
+      "getOnePass": {
+        "id": "6118ad4e2e73929ef42bd49a"
+      },
+      "deletePass": {
+        "id": "6118aae3b6963e46f4cc51a8"
+      },
+      "getOneFail": {
+        "id": "6118ad4e2e73929ef42bd49g"
+      },
+      "updateEmployeePass": {
+        "firstName": "Dattatreya",
+        "lastName": "Bagale",
+        "address": "Talegaon",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "zip": "413004",
+        "phone": "9999988888",
+        "email": "datta123@gmail.com"
+      }
 }

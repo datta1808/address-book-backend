@@ -100,3 +100,657 @@
 {"message":"User logged in!","level":"info","timestamp":"2021-08-13T19:47:45.398Z"}
 {"message":"Token is generated","level":"info","timestamp":"2021-08-13T19:52:42.764Z"}
 {"message":"User logged in!","level":"info","timestamp":"2021-08-13T19:52:42.767Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-14T02:50:24.250Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-14T02:50:24.251Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-14T02:54:12.845Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-14T02:54:12.845Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.529Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.575Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.593Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.610Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:45:41.649Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:45:41.670Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:45:47.757Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T05:45:47.758Z"}
+{"message":"Error while login","level":"error","timestamp":"2021-08-15T05:45:49.663Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-15T05:45:49.664Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:49:02.594Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:49:02.597Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:50:20.242Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T05:50:20.243Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.262Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.272Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.282Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.292Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:50:20.440Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:50:20.441Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:50:20.450Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:50:20.465Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:50:20.637Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:50:20.638Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:54:08.949Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T05:54:08.951Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:08.987Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:09.005Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:09.023Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:09.039Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:54:09.280Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:54:09.281Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:09.293Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:09.305Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:54:09.460Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:54:09.460Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:54:31.916Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T05:54:31.918Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:31.947Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:31.963Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:31.981Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:32.000Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:54:32.157Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:54:32.158Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:32.166Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:32.176Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:54:32.341Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:54:32.341Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:57:28.523Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T05:57:28.525Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.551Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.566Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.581Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.597Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:57:28.762Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:57:28.762Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:57:28.771Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:57:28.781Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:57:28.906Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:57:28.906Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:59:41.893Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T05:59:41.894Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.910Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.919Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.927Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.936Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:59:42.118Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:59:42.118Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:59:42.128Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:59:42.142Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T05:59:42.297Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T05:59:42.298Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:03:02.528Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:03:02.530Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.550Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.560Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.570Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.579Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:03:02.708Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:03:02.709Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:03:02.717Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:03:02.726Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:03:02.863Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:03:02.863Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:03:03.023Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:03:03.023Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:04:15.810Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:04:15.811Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.829Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.839Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.846Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.856Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:04:16.029Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:04:16.029Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:04:16.041Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:04:16.055Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:04:16.233Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:04:16.234Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:04:16.426Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:04:16.427Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:05:04.039Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:05:04.040Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.057Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.067Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.074Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.083Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:05:04.221Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:05:04.221Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:04.227Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:04.237Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:05:04.389Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:05:04.390Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:05:04.558Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:05:04.559Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:05:32.696Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:05:32.697Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.712Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.721Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.728Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.736Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:05:32.919Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:05:32.919Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:32.929Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:32.944Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:05:33.085Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:05:33.085Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:05:33.192Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:05:33.192Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:09:58.095Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:09:58.097Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.125Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.139Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.152Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.165Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:09:58.349Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:09:58.349Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:09:58.359Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:09:58.371Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:09:58.527Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:09:58.527Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:09:58.694Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:09:58.694Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:09:58.846Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:09:58.846Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:12:52.952Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:12:52.953Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:52.978Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:52.991Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:53.007Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:53.019Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:12:53.205Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:12:53.205Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:12:53.213Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:12:53.223Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:12:53.360Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:12:53.360Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:12:53.490Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:12:53.490Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:12:53.668Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:12:53.668Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:12:53.847Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:12:53.848Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:13:14.848Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:13:14.850Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.875Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.887Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.902Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.915Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:13:15.104Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:13:15.104Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:13:15.112Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:13:15.120Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:13:15.271Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:13:15.271Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:13:15.365Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:13:15.365Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:13:15.453Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:13:15.453Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:13:15.577Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:13:15.577Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:15:32.782Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:15:32.784Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.811Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.823Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.836Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.850Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:15:33.027Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:15:33.027Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:15:33.036Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:15:33.047Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:15:33.145Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:15:33.145Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:15:33.289Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:15:33.289Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:15:33.413Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:15:33.413Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:15:33.542Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:15:33.542Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:15:33.690Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:15:33.690Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:16:49.484Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:16:49.486Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.510Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.522Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.534Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.544Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:16:49.716Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:16:49.716Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:16:49.725Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:16:49.734Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:16:49.832Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:16:49.832Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:16:49.939Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:16:49.939Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:16:50.085Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:16:50.085Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:16:50.254Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:16:50.254Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:16:50.429Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:16:50.430Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:21:26.566Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:21:26.568Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.596Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.610Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.625Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.640Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:26.843Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:26.843Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:21:26.857Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:21:26.871Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:27.050Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:27.050Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:27.230Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:27.230Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:27.412Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:27.412Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:27.590Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:27.590Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:27.704Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:27.704Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:21:27.834Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:21:27.834Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:23:10.503Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:23:10.505Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.531Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.544Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.557Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.570Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:10.744Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:10.744Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:23:10.753Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:23:10.762Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:10.919Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:10.919Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:11.066Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:11.067Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:11.153Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:11.153Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:11.275Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:11.275Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:11.400Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:11.400Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:11.537Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:11.537Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:23:11.701Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:23:11.701Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:31:42.665Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:31:42.666Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.687Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.698Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.711Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.723Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:42.890Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:42.890Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:31:42.897Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:31:42.905Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.025Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.026Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.206Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.207Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.374Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.375Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.546Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.546Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.706Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.706Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.821Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.821Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:43.937Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:43.937Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:31:44.055Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:31:44.055Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:35:56.598Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:35:56.599Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.616Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.623Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.632Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.640Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:56.770Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:56.770Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:35:56.779Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:35:56.788Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:56.879Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:56.879Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:56.984Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:56.985Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.085Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.085Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.175Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.175Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.270Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.270Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.385Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.385Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.555Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.555Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.678Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.678Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:35:57.790Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:35:57.790Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:38:08.641Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:38:08.643Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.669Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.680Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.695Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.710Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:08.899Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:08.900Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:38:08.909Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:38:08.924Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.061Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.061Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.177Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.177Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.316Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.316Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.476Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.476Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.607Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.607Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.715Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.715Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.830Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.830Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:09.983Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:09.984Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:10.174Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:10.174Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:38:10.262Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:38:10.262Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:39:11.671Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:39:11.673Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.697Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.710Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.726Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.741Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:11.930Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:11.931Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:39:11.941Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:39:11.954Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.119Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.120Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.296Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.296Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.386Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.386Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.471Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.471Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.564Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.564Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.660Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.660Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.778Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.778Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:12.924Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:12.924Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:13.095Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:13.095Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:39:13.223Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:39:13.223Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:40:32.562Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:40:32.563Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.590Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.605Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.621Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.634Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:32.828Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:32.829Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:40:32.836Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:40:32.846Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:32.986Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:32.986Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:33.170Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:33.171Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:33.346Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:33.346Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:33.498Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:33.498Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:33.619Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:33.619Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:33.741Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:33.741Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:33.907Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:33.907Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:34.039Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:34.039Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:34.238Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:34.238Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:40:34.340Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:40:34.340Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:41:28.083Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:41:28.085Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.113Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.127Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.141Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.154Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:28.289Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:28.289Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:41:28.296Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:41:28.306Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:28.448Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:28.449Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:28.634Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:28.634Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:28.793Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:28.794Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:28.935Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:28.935Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:29.023Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:29.023Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:29.141Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:29.141Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:29.305Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:29.305Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:29.420Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:29.421Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:29.526Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:29.526Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:41:29.675Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:41:29.675Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:42:22.263Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:42:22.264Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.291Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.303Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.316Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.329Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:22.502Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:22.502Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:42:22.510Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:42:22.519Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:22.627Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:22.627Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:22.737Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:22.737Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:22.888Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:22.889Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.038Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.038Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.213Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.213Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.304Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.304Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.437Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.437Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.576Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.576Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.684Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.684Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:42:23.813Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:42:23.813Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:43:02.464Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:43:02.465Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.480Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.488Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.496Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.504Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:02.607Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:02.607Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:02.615Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:02.625Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:02.715Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:02.715Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:02.823Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:02.823Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:02.930Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:02.930Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.020Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.021Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.132Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.132Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.238Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.238Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.348Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.349Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.507Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.507Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.659Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.659Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:03.755Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:03.755Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:43:23.563Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:43:23.564Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.582Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.591Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.599Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.609Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:23.766Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:23.766Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:23.777Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:23.792Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:23.943Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:23.943Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.085Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.085Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.196Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.196Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.297Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.297Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.412Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.412Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.562Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.562Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.753Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.753Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:24.977Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:24.977Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:25.115Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:25.115Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:43:25.291Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:43:25.292Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:44:05.868Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:44:05.869Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.886Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.894Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.901Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.910Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.036Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.036Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:44:06.043Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:44:06.051Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.143Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.143Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.285Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.285Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.425Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.425Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.552Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.552Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.674Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.675Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.807Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.807Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:06.922Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:06.922Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:07.125Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:07.125Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:07.263Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:07.263Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:44:07.348Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:44:07.348Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:48:36.637Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:48:36.638Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.650Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.657Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.664Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.668Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:36.741Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:36.742Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:36.748Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:36.755Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:36.825Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:36.825Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:36.898Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:36.898Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:36.968Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:36.968Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.036Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.036Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.106Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.106Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.177Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.177Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.250Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.250Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.339Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.339Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.414Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.414Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:37.484Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:37.484Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:48:57.786Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:48:57.787Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.800Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.807Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.813Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.819Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:57.902Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:57.902Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:57.910Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:57.919Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:57.995Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:57.996Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.078Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.078Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.150Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.150Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.221Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.221Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.291Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.291Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.362Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.362Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.439Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.439Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.530Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.530Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.609Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.609Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:48:58.678Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:48:58.678Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:49:30.453Z"}
+{"message":"User registered successfully","level":"info","timestamp":"2021-08-15T06:49:30.454Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.467Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.473Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.481Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.485Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.559Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.559Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:49:30.565Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:49:30.571Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.637Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.637Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.710Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.710Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.778Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.778Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.847Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.847Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.917Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.917Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:30.985Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:30.986Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:31.058Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:31.059Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:31.143Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:31.143Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:31.219Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:31.219Z"}
+{"message":"Token is generated","level":"info","timestamp":"2021-08-15T06:49:31.290Z"}
+{"message":"User logged in!","level":"info","timestamp":"2021-08-15T06:49:31.290Z"}

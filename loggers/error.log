@@ -43,3 +43,215 @@
 {"message":"Invalid Details for login","level":"error","timestamp":"2021-08-13T11:45:47.391Z"}
 {"message":"Invalid Details for login","level":"error","timestamp":"2021-08-13T11:45:47.400Z"}
 {"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-13T13:26:36.275Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.531Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.575Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.593Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:45:39.610Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:45:41.650Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:45:41.670Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:45:47.757Z"}
+{"message":"Error while login","level":"error","timestamp":"2021-08-15T05:45:49.663Z"}
+{"message":"Error while authenticating the user","level":"error","timestamp":"2021-08-15T05:45:49.664Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:50:20.243Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.262Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.272Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.282Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:50:20.293Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:50:20.450Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:50:20.466Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:54:08.951Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:08.987Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:09.005Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:09.023Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:09.039Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:09.293Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:09.306Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:54:31.917Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:31.947Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:31.964Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:31.981Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:54:32.001Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:32.166Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:54:32.177Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:57:28.525Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.551Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.567Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.582Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:57:28.597Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:57:28.772Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:57:28.781Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T05:59:41.894Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.910Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.919Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.927Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T05:59:41.936Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:59:42.129Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T05:59:42.142Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:03:02.530Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.551Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.560Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.571Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:03:02.579Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:03:02.717Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:03:02.727Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:04:15.811Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.829Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.839Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.846Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:04:15.856Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:04:16.041Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:04:16.055Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:05:04.040Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.057Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.067Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.074Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:04.083Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:04.228Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:04.237Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:05:32.697Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.712Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.721Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.728Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:05:32.737Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:32.929Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:05:32.944Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:09:58.097Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.126Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.139Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.153Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:09:58.165Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:09:58.359Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:09:58.371Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:12:52.953Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:52.978Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:52.991Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:53.007Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:12:53.020Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:12:53.213Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:12:53.223Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:13:14.850Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.875Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.888Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.902Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:13:14.916Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:13:15.112Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:13:15.120Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:15:32.784Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.812Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.823Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.836Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:15:32.850Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:15:33.036Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:15:33.047Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:16:49.486Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.511Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.523Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.534Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:16:49.545Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:16:49.725Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:16:49.734Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:21:26.568Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.596Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.610Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.625Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:21:26.640Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:21:26.857Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:21:26.871Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:23:10.505Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.531Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.544Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.558Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:23:10.570Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:23:10.754Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:23:10.762Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:31:42.666Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.687Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.698Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.711Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:31:42.723Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:31:42.897Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:31:42.905Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:35:56.599Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.616Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.623Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.632Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:35:56.640Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:35:56.779Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:35:56.788Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:38:08.643Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.669Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.681Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.695Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:38:08.710Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:38:08.910Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:38:08.924Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:39:11.673Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.697Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.710Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.726Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:39:11.741Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:39:11.941Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:39:11.954Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:40:32.563Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.591Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.606Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.621Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:40:32.635Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:40:32.836Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:40:32.846Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:41:28.085Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.113Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.127Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.141Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:41:28.154Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:41:28.296Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:41:28.306Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:42:22.264Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.291Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.304Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.316Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:42:22.329Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:42:22.510Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:42:22.519Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:43:02.464Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.481Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.488Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.496Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:02.504Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:02.615Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:02.625Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:43:23.564Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.582Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.591Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.599Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:43:23.609Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:23.777Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:43:23.792Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:44:05.869Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.886Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.894Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.901Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:44:05.910Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:44:06.044Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:44:06.051Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:48:36.638Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.651Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.657Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.664Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:36.668Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:36.748Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:36.755Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:48:57.787Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.800Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.807Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.814Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:48:57.819Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:57.910Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:48:57.919Z"}
+{"message":"Error while saving the new user","level":"error","timestamp":"2021-08-15T06:49:30.453Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.467Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.473Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.481Z"}
+{"message":"Invalid Details for registration","level":"error","timestamp":"2021-08-15T06:49:30.485Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:49:30.565Z"}
+{"message":"Invalid Details for login","level":"error","timestamp":"2021-08-15T06:49:30.571Z"}
